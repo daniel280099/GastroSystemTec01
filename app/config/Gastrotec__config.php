@@ -22,7 +22,7 @@ define('DS'         , DIRECTORY_SEPARATOR);
 define('ROOT'       ,getcwd().DS);
 //LLAMDA A APP
 define('APP'        ,ROOT.'app'.DS);
-define('CLASS'      ,APP.'class'.DS);
+define('CLASSS'      ,APP.'class'.DS);
 define('CONFIG'     ,APP.'config'.DS);
 define('CONTROLLERS',APP.'controllers'.DS);
 define('FUNCTIONS'  ,APP.'functions'.DS);
